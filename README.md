@@ -1,7 +1,5 @@
 # server_calc_v1.0
 
-# server_calc_v1.0
-
 Este proyecto es una aplicación de login utilizando PyQt5 y un administrador de usuarios basado en una página web manejada por Flask.
 
 ## Requisitos
